@@ -1,0 +1,13 @@
+C:\Users\max jalapa\Desktop\semana_3_C#\bin\Debug\netcoreapp3.1\semana_3_C#.exe
+C:\Users\max jalapa\Desktop\semana_3_C#\bin\Debug\netcoreapp3.1\semana_3_C#.deps.json
+C:\Users\max jalapa\Desktop\semana_3_C#\bin\Debug\netcoreapp3.1\semana_3_C#.runtimeconfig.json
+C:\Users\max jalapa\Desktop\semana_3_C#\bin\Debug\netcoreapp3.1\semana_3_C#.runtimeconfig.dev.json
+C:\Users\max jalapa\Desktop\semana_3_C#\bin\Debug\netcoreapp3.1\semana_3_C#.dll
+C:\Users\max jalapa\Desktop\semana_3_C#\bin\Debug\netcoreapp3.1\semana_3_C#.pdb
+C:\Users\max jalapa\Desktop\semana_3_C#\obj\Debug\netcoreapp3.1\semana_3_C#.csprojAssemblyReference.cache
+C:\Users\max jalapa\Desktop\semana_3_C#\obj\Debug\netcoreapp3.1\semana_3_C#.AssemblyInfoInputs.cache
+C:\Users\max jalapa\Desktop\semana_3_C#\obj\Debug\netcoreapp3.1\semana_3_C#.AssemblyInfo.cs
+C:\Users\max jalapa\Desktop\semana_3_C#\obj\Debug\netcoreapp3.1\semana_3_C#.csproj.CoreCompileInputs.cache
+C:\Users\max jalapa\Desktop\semana_3_C#\obj\Debug\netcoreapp3.1\semana_3_C#.dll
+C:\Users\max jalapa\Desktop\semana_3_C#\obj\Debug\netcoreapp3.1\semana_3_C#.pdb
+C:\Users\max jalapa\Desktop\semana_3_C#\obj\Debug\netcoreapp3.1\semana_3_C#.genruntimeconfig.cache
